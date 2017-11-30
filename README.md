@@ -70,11 +70,11 @@ Then install [Homebrew](https://brew.sh).
 
 NOTE: Building with Qt4 is still supported, however, could result in a broken UI. Building with Qt5 is recommended.
 
-#### Build LuxCore
+#### Build Lux Core
 
 1. Clone the Lux source code and cd into `Lux`
 
-        git clone --recursive https://github.com/216k155/luxcore.git
+        git clone --recursive https://github.com/Lux-core/lux.git
         cd Lux
 
 2.  Build Luxcore:
