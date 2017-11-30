@@ -25,7 +25,7 @@ WIT_V1 = 1
 def witness_script(version, pubkey):
     if (version == 0):
         pubkeyhash = bytes_to_hex_str(ripemd160(sha256(hex_str_to_bytes(pubkey))))
-        pkscript = "0014" + pubkeyhash
+        pkscript = "4.0.0" + pubkeyhash
     elif (version == 1):
         # 1-of-1 multisig
         scripthash = bytes_to_hex_str(sha256(hex_str_to_bytes("5121" + pubkey + "51ae")))

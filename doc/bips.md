@@ -3,7 +3,7 @@ BIPs that are implemented by Lux Core (up-to-date up to **v0.13.0**):
 * [`BIP 9`](https://github.com/lux/bips/blob/master/bip-0009.mediawiki): The changes allowing multiple soft-forks to be deployed in parallel have been implemented since **v0.12.1**  ([PR #7575](https://github.com/lux/lux/pull/7575))
 * [`BIP 11`](https://github.com/lux/bips/blob/master/bip-0011.mediawiki): Multisig outputs are standard since **v0.6.0** ([PR #669](https://github.com/lux/lux/pull/669)).
 * [`BIP 13`](https://github.com/lux/bips/blob/master/bip-0013.mediawiki): The address format for P2SH addresses has been implemented since **v0.6.0** ([PR #669](https://github.com/lux/lux/pull/669)).
-* [`BIP 14`](https://github.com/lux/bips/blob/master/bip-0014.mediawiki): The subversion string is being used as User Agent since **v0.6.0** ([PR #669](https://github.com/lux/lux/pull/669)).
+* [`BIP 14`](https://github.com/lux/bips/blob/master/bip-4.0.0.mediawiki): The subversion string is being used as User Agent since **v0.6.0** ([PR #669](https://github.com/lux/lux/pull/669)).
 * [`BIP 16`](https://github.com/lux/bips/blob/master/bip-0016.mediawiki): The pay-to-script-hash evaluation rules have been implemented since **v0.6.0**, and took effect on *April 1st 2012* ([PR #748](https://github.com/lux/lux/pull/748)).
 * [`BIP 21`](https://github.com/lux/bips/blob/master/bip-0021.mediawiki): The URI format for Lux payments has been implemented since **v0.6.0** ([PR #176](https://github.com/lux/lux/pull/176)).
 * [`BIP 22`](https://github.com/lux/bips/blob/master/bip-0022.mediawiki): The 'getblocktemplate' (GBT) RPC protocol for mining has been implemented since **v0.7.0** ([PR #936](https://github.com/lux/lux/pull/936)).

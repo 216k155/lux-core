@@ -31,7 +31,7 @@ class SignRawTransactionsTest(BitcoinTestFramework):
 
         inputs = [
             # Valid pay-to-pubkey scripts
-            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95050014157059c736f0202e71', 'vout': 0,
+            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95054.0.0157059c736f0202e71', 'vout': 0,
              'scriptPubKey': '76a91460baa0f494b38ce3c940dea67f3804dc52d1fb9488ac'},
             {'txid': '83a4f6a6b73660e13ee6cb3c6063fa3759c50c9b7521d0536022961898f4fb02', 'vout': 0,
              'scriptPubKey': '76a914669b857c03a5ed269d5d85a1ffac9ed5d663072788ac'},
@@ -78,16 +78,16 @@ class SignRawTransactionsTest(BitcoinTestFramework):
 
         inputs = [
             # Valid pay-to-pubkey script
-            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95050014157059c736f0202e71', 'vout': 0},
+            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95054.0.0157059c736f0202e71', 'vout': 0},
             # Invalid script
             {'txid': '5b8673686910442c644b1f4993d8f7753c7c8fcb5c87ee40d56eaeef25204547', 'vout': 7},
             # Missing scriptPubKey
-            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95050014157059c736f0202e71', 'vout': 1},
+            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95054.0.0157059c736f0202e71', 'vout': 1},
         ]
 
         scripts = [
             # Valid pay-to-pubkey script
-            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95050014157059c736f0202e71', 'vout': 0,
+            {'txid': '9b907ef1e3c26fc71fe4a4b3580bc75264112f95054.0.0157059c736f0202e71', 'vout': 0,
              'scriptPubKey': '76a91460baa0f494b38ce3c940dea67f3804dc52d1fb9488ac'},
             # Invalid script
             {'txid': '5b8673686910442c644b1f4993d8f7753c7c8fcb5c87ee40d56eaeef25204547', 'vout': 7,
