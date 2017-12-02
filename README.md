@@ -2,7 +2,7 @@
 
 "Empowered By Intelligence" 
 
-![Website](https://luxcore.io) ![Block Explorer](https://explorer.luxcoin.xyz/) ![Discord](https://discord.gg/27xFP5Y) ![Blog](https://reddit.com/r/LUXCoin)  ![Forum](https://bitcointalk.org/index.php?topic=2254046.0)
+![Website](https://luxcore.io) | ![Block Explorer](https://explorer.luxcoin.xyz/) | ![Discord](https://discord.gg/27xFP5Y) | ![Blog](https://reddit.com/r/LUXCoin) | ![Forum](https://bitcointalk.org/index.php?topic=2254046.0)
 
 Features
 =============
