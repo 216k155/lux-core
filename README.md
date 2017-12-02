@@ -27,10 +27,26 @@ because of the technology is incompatible, it almost impossible before our pmn a
 Therefore, we have to introduce a smartcontract & segwit features in the next release to verify that we succeed to combine those different technology together to create a brand new unique features of LUX
 
 * [Website](https://luxcore.io)
-* [Website](https://luxcoin.tech)
 * [Blog](https://reddit.com/r/LUXCoin)
 * [Block Explorer](https://explorer.luxcoin.xyz/)
 * [Forum](https://bitcointalk.org/index.php?topic=2254046.0)
+
+## Coin Specifications
+
+| Specification | Value |
+|:-----------|:-----------|
+| Total Blocks | `6,000,000` |
+| Block Size | `4MB` |
+| Block Time | `60s` |
+| PoW Reward | `10 LUX` |
+| PoS Reward | `1 LUX` |
+| Stake Time | `36 hours` |
+| Masternode Requirement | `16,120 LUX` |
+| Masternode Reward | `40% PoS Block ` |
+| Port | `28666` |
+| RPC Port | `9888` |
+| Masternode Port | `28666` |
+
 
 Build Luxcore
 ----------
