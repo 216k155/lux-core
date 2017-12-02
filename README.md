@@ -1,10 +1,8 @@
-![Luxcoin Logo](https://i.imgur.com/NGH5SmR.png)
+![Luxcoin Logo](https://i.imgur.com/0Dtm0qk.png)
 
 "Empowered By Intelligence" 
 
-[![Discord] (https://discord.gg/27xFP5Y)
-
-#Introducing Luxcoin
+![Discord](https://discord.gg/27xFP5Y)
 
 Features
 =============
