@@ -2,20 +2,19 @@
 
 "Developed For The Blockchain Pleasure" 
 
-[![Discord](https://discord.gg/27xFP5Y)](https://discord.gg/27xFP5Y)
+[![Discord] (https://discord.gg/27xFP5Y)
 
-#Introducing Lux V4 
+#Introducing Luxcoin
 
 Features
 =============
 
-*Luxgate - Parallel masternode 
-*Segwit
-*Smart contract 
-*New PHI1612 PoW/PoS hybrid algorithm
-*Masternode
-*Static PoS implemented
-*Luxgate implemented
+* Luxgate - Parallel masternode / masternode
+* Segwit
+* Smart contract 
+* Luxgate
+* New PHI1612 PoW/PoS hybrid algorithm
+* Static PoS
 
 The Luxcore Project  is a decentralized peer-to-peer banking financial platform, created under an open source license, featuring a built-in cryptocurrency, end-to-end encrypted messaging and decentralized marketplace. The decentralized network aims to provide anonymity and privacy for everyone through a simple user-friendly interface by taking care of all the advanced cryptography in the background. 
 
