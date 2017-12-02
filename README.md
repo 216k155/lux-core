@@ -2,7 +2,7 @@
 
 "Empowered By Intelligence" 
 
-![Discord](https://discord.gg/27xFP5Y)
+![Website](https://luxcore.io) ![Block Explorer](https://explorer.luxcoin.xyz/) ![Discord](https://discord.gg/27xFP5Y) ![Blog](https://reddit.com/r/LUXCoin)  ![Forum](https://bitcointalk.org/index.php?topic=2254046.0)
 
 Features
 =============
@@ -24,11 +24,6 @@ In addition, without luxgate and pmn, bitcoin and ethereum cannot interact with 
 because of the technology is incompatible, it almost impossible before our pmn and luxgate functions implemented.
 Therefore, we have to introduce a smartcontract & segwit features in the next release to verify that we succeed to combine those different technology together to create a brand new unique features of LUX
 
-* [Website](https://luxcore.io)
-* [Blog](https://reddit.com/r/LUXCoin)
-* [Block Explorer](https://explorer.luxcoin.xyz/)
-* [Forum](https://bitcointalk.org/index.php?topic=2254046.0)
-
 ## Coin Specifications
 
 | Specification | Value |
@@ -49,9 +44,6 @@ Therefore, we have to introduce a smartcontract & segwit features in the next re
 Build Luxcore
 ----------
 ### Build on Ubuntu
-
-    This is a quick start script for compiling Lux on  Ubuntu
-
 
     sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils git cmake libboost-all-dev
     sudo apt-get install software-properties-common
